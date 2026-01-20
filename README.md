@@ -45,4 +45,5 @@ Relaxation: Vibe Caffe.
 As a Graduate Software Engineer from International Burch University, I built this app to bridge the gap between traditional tourism and modern technology. This project is a tribute to my hometown, aimed at putting Sjenica on the digital map for travelers worldwide.
 
 📞 Support & Contribution
-If you have suggestions for new locations or features, feel free to open an issue or reach out!
+If you have suggestions for new locations or features, feel free to open an issue or reach out!![city-guide](https://github.com/user-attachments/assets/211242c0-7f5c-4443-a7bf-f1e72037a584)
+
