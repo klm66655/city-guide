@@ -1,5 +1,3 @@
-Evo gotovog README.md fajla za tvoju mobilnu aplikaciju. Ovaj fajl je struktuiran tako da odmah pokaže tvoj "full-stack" talenat (React Native + Spring Boot) i tvoju povezanost sa rodnim gradom.
-
 📍 Sjenica Guide Tour
 The ultimate mobile companion for discovering the hidden gems of the Sjenica plateau.
 
